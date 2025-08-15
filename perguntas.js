@@ -90,7 +90,93 @@ criaCartao(
 ) 
 
 criaCartao(
-    'Biologia',
-    'Como são chamadas as estruturas que transportam água nas plantas?',
-    'Xilema.'
+    'Artistas',
+    'Quem é conhecido como "O Rei do Pop"?',
+    'Michael Jackson.'
 )
+
+criaCartao(
+    'Artistas',
+    'Quem é conhecida como a “Rainha do Pop”?',
+    'Madonna.'
+)
+
+criaCartao(
+    'Artistas',
+    'Qual artista pintou o teto da Capela Sistina?',
+    'Michelangelo.'
+)
+
+criaCartao(
+    'Artistas',
+    'Qual artista britânico é famoso pelo hit "Shape of You"?',
+    'Ed Sheeran.'
+)
+
+criaCartao(
+    'Artistas',
+    'Qual cantora americana é conhecida como "Rainha do R&B" e teve grande sucesso com a música "Single Ladies"?',
+    'Beyoncé.'
+)
+
+criaCartao(
+    'Artistas',
+    ' Quem é considerado um dos maiores pintores modernistas do Brasil e é famoso por obras como "Abaporu"?',
+    'Tarsila do Amaral.'
+)
+
+criaCartao(
+    'Artistas',
+    'Qual cantor brasileiro é conhecido como o "Rei do Samba" e teve grande influência na música popular brasileira?',
+    'Cartola.'
+)
+
+criaCartao(
+    'Artistas',
+    'Quem foi o escultor brasileiro responsável pela criação do Monumento às Bandeiras, em São Paulo?',
+    'Victor Brecheret.'
+)
+
+criaCartao(
+    'Artistas',
+    'Quem pintou a obra “Mona Lisa”?',
+    'Leonardo da Vinci.'
+)
+
+criaCartao(
+    'Artistas',
+    'Quem é o autor da escultura “O Pensador”',
+    'Auguste Rodin.'
+)
+
+criaCartao(
+    'Artistas',
+    'Qual pintor ficou famoso pelo estilo cubista junto com Georges Braque?',
+    'Pablo Picasso.'
+)
+
+
+criaCartao(
+    'Artistas',
+    'Qual artista brasileira é conhecida pela canção “Garota de Ipanema”?',
+    'Tom Jobim (com Vinicius de Moraes — música interpretada por vários cantores).'
+)
+
+criaCartao(
+    'Artistas',
+    'Quem foi o autor da obra “A Noite Estrelada”?',
+    'Vincent van Gogh.'
+)
+
+criaCartao(
+    'Artistas',
+    'Qual artista pop é famosa pelo álbum “1989”?',
+    'Taylor Swift.'
+)
+
+criaCartao(
+    'Artistas',
+    'Quem é considerado o maior dramaturgo da língua inglesa?',
+    'William Shakespeare.'
+) 
+
